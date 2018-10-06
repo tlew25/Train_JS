@@ -1,0 +1,54 @@
+/* Start of Train JS CSS */
+
+body{
+    background: #93A18C;
+
+}
+.display-4{
+    background: #93A18C;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 35px;
+}
+.jumbotron{
+    background: #E9D8C0;
+    border-style: solid;
+    border-color: #000;
+}
+.schedule-table{
+    border-style: solid;
+    border-color: #000;
+    border-radius: 8px;
+    border-bottom: 1px;
+}
+.panel-heading{
+    margin-top: 20px;
+}
+h1, h2, h3{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+form{
+    margin-top: 10px;
+    background: #E9D8C0;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 8px;
+}
+th{
+    background: #E9D8C0;
+}
+tbody{
+    background: rgb(255, 255, 255);
+}
+img{
+    display: block;
+    margin: auto;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 6px;
+}
+#submit-here{
+    background: #93A18C;
+}
+/* End of Style.css */
